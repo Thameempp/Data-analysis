@@ -1,0 +1,6 @@
+Matplotlib + Seaborn  (foundation)
+Plotly               (interactive)
+Streamlit            (deployment)
+
+Matplotlib + Seaborn → learning, notebooks, research
+Plotly + Streamlit → real-world projects
